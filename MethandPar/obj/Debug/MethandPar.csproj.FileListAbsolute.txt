@@ -1,0 +1,11 @@
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.csproj.AssemblyReference.cache
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.csproj.SuggestedBindingRedirects.cache
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.Form1.resources
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.Properties.Resources.resources
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.csproj.GenerateResource.cache
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.csproj.CoreCompileInputs.cache
+C:\Users\QQ121\Desktop\MethandPar\bin\Debug\MethandPar.exe.config
+C:\Users\QQ121\Desktop\MethandPar\bin\Debug\MethandPar.exe
+C:\Users\QQ121\Desktop\MethandPar\bin\Debug\MethandPar.pdb
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.exe
+C:\Users\QQ121\Desktop\MethandPar\obj\Debug\MethandPar.pdb

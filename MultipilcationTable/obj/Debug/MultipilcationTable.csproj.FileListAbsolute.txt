@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\MultipilcationTable\obj\Debug\MultipilcationTable.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MultipilcationTable\obj\Debug\MultipilcationTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\MultipilcationTable\obj\Debug\MultipilcationTable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MultipilcationTable\bin\Debug\MultipilcationTable.exe.config
+C:\Users\Admin\Desktop\MultipilcationTable\bin\Debug\MultipilcationTable.exe
+C:\Users\Admin\Desktop\MultipilcationTable\bin\Debug\MultipilcationTable.pdb
+C:\Users\Admin\Desktop\MultipilcationTable\obj\Debug\MultipilcationTable.exe
+C:\Users\Admin\Desktop\MultipilcationTable\obj\Debug\MultipilcationTable.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\NumSquence\NumSquence\bin\Debug\NumSquence.exe.config
+C:\Users\Admin\Desktop\NumSquence\NumSquence\bin\Debug\NumSquence.exe
+C:\Users\Admin\Desktop\NumSquence\NumSquence\bin\Debug\NumSquence.pdb
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.frmSequence.resources
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.Properties.Resources.resources
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.exe
+C:\Users\Admin\Desktop\NumSquence\NumSquence\obj\Debug\NumSquence.pdb
